@@ -30,13 +30,13 @@ header .nav-link.active {
 }
 
 header .nav-link:hover {
-  background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #F4A98D 1.35%, #ffffff 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 header .nav-link:active {
-  background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #F4A98D 1.35%, #ffffff 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -49,7 +49,7 @@ header .btn-contact {
 }
 
 header .btn-contact:hover {
-  background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #F4A98D 1.35%, #ffffff 72.52%);
   color: #fff;
 }
 
@@ -73,7 +73,7 @@ header .btn-contact:hover {
   bottom: 0;
   border-radius: 50px;
   padding: 1.5px;
-  background: linear-gradient(45deg, #F4A98D, #6BB031);
+  background: linear-gradient(45deg, #000000, #ffffff);
   -webkit-mask:
     linear-gradient(#fff 0 0) content-box,
     linear-gradient(#fff 0 0);
@@ -104,7 +104,7 @@ header .btn-contact:hover {
 
 .headertext h2 {
   font-weight: 400;
-  background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #ffffff 1.35%, #6BB031 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.9rem;
